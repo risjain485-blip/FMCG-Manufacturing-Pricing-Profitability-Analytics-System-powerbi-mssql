@@ -2,12 +2,15 @@
 ## 📸 Dashboard Preview
 
 ### 🏭 Manufacturing Unit Performance Analysis
+pdf: [Manufacturing Unit Performance Analytics pdf](https://github.com/user-attachments/files/27330645/Manufacturing.Unit.Performance.Analytics.pdf)
+
 https://app.fabric.microsoft.com/reportEmbed?reportId=8afc1694-24fd-462e-a603-8c43c792ff4a&autoAuth=true&ctid=0c93e3f2-a488-4632-a9b2-99ec3931cb62
 <img width="1366" height="768" alt="Manufacturing Unit Overview" src="https://github.com/user-attachments/assets/cb19f446-e653-48ac-9614-6ab0a1fe20c8" />
 
 
-
 ### 💰 Manufacturing Cost & Production Analysis
+pdf: [Manufacturing Cost & Production Analytics latest pdf](https://github.com/user-attachments/files/27330663/Manufacturing.Cost.Production.Analytics.latest.pdf)
+
 https://app.fabric.microsoft.com/reportEmbed?reportId=a7584148-ce17-4a4f-9ae8-2ce894dcc063&autoAuth=true&ctid=0c93e3f2-a488-4632-a9b2-99ec3931cb62
 <img width="1366" height="768" alt="Manufacturing Cost   Production Overview" src="https://github.com/user-attachments/assets/9a5ef5ec-e150-4dbf-ac3b-c1dc9846a682" />
 
@@ -98,6 +101,8 @@ This project includes **two separate Power BI reports (.pbix files)** designed f
 
 ## 📁 Report 1: Manufacturing Performance Dashboard
 - https://app.fabric.microsoft.com/reportEmbed?reportId=a7584148-ce17-4a4f-9ae8-2ce894dcc063&autoAuth=true&ctid=0c93e3f2-a488-4632-a9b2-99ec3931cb62
+- pdf: [Manufacturing Unit Performance Analytics pdf](https://github.com/user-attachments/files/27330702/Manufacturing.Unit.Performance.Analytics.pdf)
+
 ### 🔹 Pages:
 
 ### 1️⃣ Manufacturing Unit Overview
@@ -128,6 +133,8 @@ This project includes **two separate Power BI reports (.pbix files)** designed f
 
 ## 📁 Report 2: Cost, Pricing & Profitability Dashboard
 https://app.fabric.microsoft.com/reportEmbed?reportId=a7584148-ce17-4a4f-9ae8-2ce894dcc063&autoAuth=true&ctid=0c93e3f2-a488-4632-a9b2-99ec3931cb62
+pdf: [Manufacturing Cost & Production Analytics latest pdf](https://github.com/user-attachments/files/27330713/Manufacturing.Cost.Production.Analytics.latest.pdf)
+
 ### 🔹 Pages:
 
 ### 1️⃣ Manufacturing Cost & Production Overview
