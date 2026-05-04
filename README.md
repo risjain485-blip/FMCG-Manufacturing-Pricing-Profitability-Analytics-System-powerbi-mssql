@@ -133,6 +133,7 @@ This project includes **two separate Power BI reports (.pbix files)** designed f
 
 ## 📁 Report 2: Cost, Pricing & Profitability Dashboard
 https://app.fabric.microsoft.com/reportEmbed?reportId=a7584148-ce17-4a4f-9ae8-2ce894dcc063&autoAuth=true&ctid=0c93e3f2-a488-4632-a9b2-99ec3931cb62
+
 pdf: [Manufacturing Cost & Production Analytics latest pdf](https://github.com/user-attachments/files/27330713/Manufacturing.Cost.Production.Analytics.latest.pdf)
 
 ### 🔹 Pages:
